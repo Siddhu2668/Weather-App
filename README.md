@@ -1,9 +1,7 @@
-Here is the enhanced version of your README file with the suggested improvements:
-
+# Weather App
 
 
 ## Overview
-*Include a screenshot or demo GIF here*
 
 This Weather App retrieves and displays weather data from the OpenWeatherMap API, offering real-time updates with user-configurable temperature units (Celsius, Fahrenheit, Kelvin). The app provides a 5-day weather forecast, including humidity, wind speed, and daily summaries for minimum, maximum, and average temperatures.
 
